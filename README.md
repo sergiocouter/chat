@@ -1,4 +1,4 @@
-# chat
+# Chat com Firebase
 Chat utilizando React e Firebase
 
 ## Objetivo 
